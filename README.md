@@ -7,4 +7,4 @@ Furthermore, it compares truncated wavelet approximation (using several sets of 
 The results, shown in the paper, are that in some cases DWT can get better compression for the same mean-squared-error in the decompressed signal than DCT.
 While mean-squared-error was used as the error metric, a human listener will also often prefer the DWT-compressed signal, possibly since our ears rely partially on a DWT (see the paper, which gives a reference for this claim).
 
-The test audio used in this project (Am I Blue.WAV) is Kevin Conroy's recording of *Am I Blue*, available on his [website](http://www.realkevinconroy.com/).
+The test audio used in this project (Am I Blue.wav) is Kevin Conroy's recording of *Am I Blue*, available on his [website](http://www.realkevinconroy.com/).
